@@ -1,19 +1,10 @@
-Here's a refined version:
+¡Hola! 👋
+Soy un programador apasionado con experiencia en Angular, Java, Laravel, Ionic, y Fat-Free Framework. Disfruto explorando nuevas tecnologías y desarrollando proyectos fascinantes tanto en el backend como en el frontend.
 
----
-
-### Hi there 👋
-
-I'm a passionate programmer skilled in **Angular**, **Java**, **Laravel**, **Ionic**, and **Fat-Free Framework**. I love diving into new technologies and building awesome projects.
-
-- 🔭 I’m currently working on enhancing web and mobile applications.
-- 🌱 I’m continuously learning and exploring the latest in tech.
-- 👯 I’m looking to collaborate on open-source projects.
-- 💬 Ask me about my projects, tech stacks, or anything tech-related!
-- 📫 How to reach me: [Your Email] or [Your Phone Number]
-- 😄 Pronouns: [Your Pronouns]
-- ⚡ Fun fact: I enjoy [Your Hobbies/Interests] when I'm not coding!
-
----
-
-Feel free to adjust or add any other details you'd like to share!
+🔭 Actualmente, estoy trabajando en mejorar aplicaciones web y móviles.
+🌱 Siempre estoy aprendiendo y explorando las últimas tendencias tecnológicas.
+💻 En Laravel, tengo experiencia en desarrollo de APIs y gestión de bases de datos.
+🌐 En el frontend, uso Angular para crear interfaces de usuario interactivas y responsivas.
+👯 Busco colaborar en proyectos de código abierto.
+💬 ¡Pregúntame sobre mis proyectos, tecnologías o cualquier cosa relacionada con la programación!
+📫 Cómo contactarme: [klebermera2016@gmail.com] o [0999016890]
