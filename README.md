@@ -9,6 +9,8 @@ Soy un programador apasionado con experiencia en Angular, Java, Laravel, Ionic, 
 
 🌐 En el frontend, uso Angular para crear interfaces de usuario interactivas y responsivas.
 
+📱 Con Ionic, desarrollo aplicaciones móviles multiplataforma con una experiencia de usuario nativa.
+
 👯 Busco colaborar en proyectos de código abierto.
 
 💬 ¡Pregúntame sobre mis proyectos, tecnologías o cualquier cosa relacionada con la programación!
