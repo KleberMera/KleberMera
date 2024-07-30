@@ -1,16 +1,19 @@
+Here's a refined version:
+
+---
+
 ### Hi there 👋
 
-<!--
-**KleberMera/KleberMera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate programmer skilled in **Angular**, **Java**, **Laravel**, **Ionic**, and **Fat-Free Framework**. I love diving into new technologies and building awesome projects.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on enhancing web and mobile applications.
+- 🌱 I’m continuously learning and exploring the latest in tech.
+- 👯 I’m looking to collaborate on open-source projects.
+- 💬 Ask me about my projects, tech stacks, or anything tech-related!
+- 📫 How to reach me: [Your Email] or [Your Phone Number]
+- 😄 Pronouns: [Your Pronouns]
+- ⚡ Fun fact: I enjoy [Your Hobbies/Interests] when I'm not coding!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+Feel free to adjust or add any other details you'd like to share!
